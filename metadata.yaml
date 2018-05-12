@@ -1,0 +1,28 @@
+_repo: Discovery-of-Oxygen-Part-2_26243
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scheele, Carl Wilhelm
+    birthdate: 1742
+    deathdate: 1786
+    gutenberg_agent_id: '31878'
+    url: http://www.gutenberg.org/2009/agents/31878
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Wilhelm_Scheele
+description: ''
+gutenberg_issued: '2008-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26243'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oxygen'
+- !lcc 'QD'
+- !lcsh 'Phlogiston'
+title: Discovery of Oxygen, Part 2
+url: http://www.gutenberg.org/ebooks/26243
